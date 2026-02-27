@@ -2,3 +2,5 @@
 llmfit
 /docs
 llmfit-desktop/gen/schemas/*
+config.bat
+node_modules
